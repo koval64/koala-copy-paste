@@ -8,7 +8,7 @@
 ![Screenshot](example_png_converted/img_to_copy_to.png)
 
 ### Result image
-![Screenshot](example_png_converted/img_to_copy_to result.png)
+![Screenshot](example_png_converted/img_to_copy_to_result.png)
 
 
 # Usage:
