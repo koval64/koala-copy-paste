@@ -1,6 +1,18 @@
 
 # Koala copy-paste.
 
+### Input source image
+![Screenshot](example_png_converted/img_to_copy_from.png)
+
+### Input destination image
+![Screenshot](example_png_converted/img_to_copy_to.png)
+
+### Result image
+![Screenshot](example_png_converted/img_to_copy_to result.png)
+
+
+# Usage:
+
 ~~~
 # application takes 8 arguments
 
