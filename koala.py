@@ -70,9 +70,9 @@ if __name__ == "__main__":
     # print_info( img_to )
     # print_info( img_from )
 
-    # img_to.copy( img_from, src_x, src_y, width, height, dst_x, dst_y )
-    img_to = make_diagonal_collage_updown( img_from, img_to )
-    save( img_to, f"{dst_img}".replace( ".kla", " result.kla" ) )
+    img_to.copy( img_from, src_x, src_y, width, height, dst_x, dst_y )
+    # img_to = make_diagonal_collage_updown( img_from, img_to )
+    save( img_to, f"{dst_img}".replace( ".kla", "_result.kla" ) )
 
     print()
     print("done.")
